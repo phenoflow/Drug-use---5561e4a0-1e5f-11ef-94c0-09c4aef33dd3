@@ -1,0 +1,366 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/major-drug-use---primary.py
+inputModule3:
+  class: File
+  path: python/drug-use-delirium---primary.py
+inputModule4:
+  class: File
+  path: python/drug-use-behaviour---primary.py
+inputModule5:
+  class: File
+  path: python/drug-use-rehabilitation---primary.py
+inputModule6:
+  class: File
+  path: python/drug-use-obtains---primary.py
+inputModule7:
+  class: File
+  path: python/drug-use-cannabind---primary.py
+inputModule8:
+  class: File
+  path: python/drug-use-notif---primary.py
+inputModule9:
+  class: File
+  path: python/drug-use-poison---primary.py
+inputModule10:
+  class: File
+  path: python/drug-use-dependenceunspecified---primary.py
+inputModule11:
+  class: File
+  path: python/nondependent-drug-use---primary.py
+inputModule12:
+  class: File
+  path: python/drug-use-misus---primary.py
+inputModule13:
+  class: File
+  path: python/drug-use-suboxone---primary.py
+inputModule14:
+  class: File
+  path: python/dependenceepisodic-drug-use---primary.py
+inputModule15:
+  class: File
+  path: python/drug-use-treat---primary.py
+inputModule16:
+  class: File
+  path: python/drug-use-natzon---primary.py
+inputModule17:
+  class: File
+  path: python/drug-use-declin---primary.py
+inputModule18:
+  class: File
+  path: python/drug-use-psychoses---primary.py
+inputModule19:
+  class: File
+  path: python/ritual-drug-use---primary.py
+inputModule20:
+  class: File
+  path: python/drug-use-tolerance---primary.py
+inputModule21:
+  class: File
+  path: python/psychotic-drug-use---primary.py
+inputModule22:
+  class: File
+  path: python/drug-use-maintenance---primary.py
+inputModule23:
+  class: File
+  path: python/drug-use---primary.py
+inputModule24:
+  class: File
+  path: python/drug-use-reinduct---primary.py
+inputModule25:
+  class: File
+  path: python/drug-use-amphet---primary.py
+inputModule26:
+  class: File
+  path: python/drug-use-counsel---primary.py
+inputModule27:
+  class: File
+  path: python/drug-use-withdrawal---primary.py
+inputModule28:
+  class: File
+  path: python/drug-use-cocain---primary.py
+inputModule29:
+  class: File
+  path: python/drug-use-pinadone---primary.py
+inputModule30:
+  class: File
+  path: python/drug-use-addiction---primary.py
+inputModule31:
+  class: File
+  path: python/drug-use-monitoring---primary.py
+inputModule32:
+  class: File
+  path: python/drug-use-disord---primary.py
+inputModule33:
+  class: File
+  path: python/drug-use-spent---primary.py
+inputModule34:
+  class: File
+  path: python/current-drug-use---primary.py
+inputModule35:
+  class: File
+  path: python/drug-use-psychostimulant---primary.py
+inputModule36:
+  class: File
+  path: python/drug-use-barbiturate---primary.py
+inputModule37:
+  class: File
+  path: python/anxiolytic-drug-use---primary.py
+inputModule38:
+  class: File
+  path: python/drug-use-equipment---primary.py
+inputModule39:
+  class: File
+  path: python/drug-use-withdr---primary.py
+inputModule40:
+  class: File
+  path: python/drug-use-injects---primary.py
+inputModule41:
+  class: File
+  path: python/drug-use-subst---primary.py
+inputModule42:
+  class: File
+  path: python/drug-use-episod---primary.py
+inputModule43:
+  class: File
+  path: python/drug-use-damage---primary.py
+inputModule44:
+  class: File
+  path: python/drug-use-assess---primary.py
+inputModule45:
+  class: File
+  path: python/drug-use-service---primary.py
+inputModule46:
+  class: File
+  path: python/drug-use-syringe---primary.py
+inputModule47:
+  class: File
+  path: python/drug-use-benzodiazepine---primary.py
+inputModule48:
+  class: File
+  path: python/drug-use-hallucin---primary.py
+inputModule49:
+  class: File
+  path: python/opioid-drug-use---primary.py
+inputModule50:
+  class: File
+  path: python/drug-use-400microgram---primary.py
+inputModule51:
+  class: File
+  path: python/drug-use-contin---primary.py
+inputModule52:
+  class: File
+  path: python/drug-use-infrequ---primary.py
+inputModule53:
+  class: File
+  path: python/drug-use-injector---primary.py
+inputModule54:
+  class: File
+  path: python/drug-use-psilocybin---primary.py
+inputModule55:
+  class: File
+  path: python/drug-use-syndr---primary.py
+inputModule56:
+  class: File
+  path: python/drug-use-dependunspecif---primary.py
+inputModule57:
+  class: File
+  path: python/hypnotic-drug-use---primary.py
+inputModule58:
+  class: File
+  path: python/drug-use-multi---primary.py
+inputModule59:
+  class: File
+  path: python/weekly-drug-use---primary.py
+inputModule60:
+  class: File
+  path: python/drug-use-history---primary.py
+inputModule61:
+  class: File
+  path: python/drug-use-frontloading---primary.py
+inputModule62:
+  class: File
+  path: python/drug-use-combined---primary.py
+inputModule63:
+  class: File
+  path: python/drug-use-depen---primary.py
+inputModule64:
+  class: File
+  path: python/clean-drug-use---primary.py
+inputModule65:
+  class: File
+  path: python/drug-use-taking---primary.py
+inputModule66:
+  class: File
+  path: python/drug-use-thera---primary.py
+inputModule67:
+  class: File
+  path: python/drug---primary.py
+inputModule68:
+  class: File
+  path: python/mixed-drug-use---primary.py
+inputModule69:
+  class: File
+  path: python/daily-drug-use---primary.py
+inputModule70:
+  class: File
+  path: python/drug-use-activity---primary.py
+inputModule71:
+  class: File
+  path: python/drug-use-eptadone---primary.py
+inputModule72:
+  class: File
+  path: python/drug-use-inject---primary.py
+inputModule73:
+  class: File
+  path: python/drug-use-liquid---primary.py
+inputModule74:
+  class: File
+  path: python/drug-use-completed---primary.py
+inputModule75:
+  class: File
+  path: python/routine-drug-use---primary.py
+inputModule76:
+  class: File
+  path: python/drug-use-antidepress---primary.py
+inputModule77:
+  class: File
+  path: python/drug-use-solution---primary.py
+inputModule78:
+  class: File
+  path: python/drug-use-opiate---primary.py
+inputModule79:
+  class: File
+  path: python/drug-use-100mg---primary.py
+inputModule80:
+  class: File
+  path: python/drug-use-share---primary.py
+inputModule81:
+  class: File
+  path: python/drug-use-accidpoi---primary.py
+inputModule82:
+  class: File
+  path: python/drug-use-remis---primary.py
+inputModule83:
+  class: File
+  path: python/drug-use-tablet---primary.py
+inputModule84:
+  class: File
+  path: python/drug-use-mixture---primary.py
+inputModule85:
+  class: File
+  path: python/drug-use-200mcg---primary.py
+inputModule86:
+  class: File
+  path: python/drug-use-smokes---primary.py
+inputModule87:
+  class: File
+  path: python/harmful-drug-use---primary.py
+inputModule88:
+  class: File
+  path: python/drug-use-hydrochloride---primary.py
+inputModule89:
+  class: File
+  path: python/drug-use-naltrexone---primary.py
+inputModule90:
+  class: File
+  path: python/drug-use-ecstasy---primary.py
+inputModule91:
+  class: File
+  path: python/drug-use-psychoact---primary.py
+inputModule92:
+  class: File
+  path: python/drug-use-heroin---primary.py
+inputModule93:
+  class: File
+  path: python/drug-use-subutex---primary.py
+inputModule94:
+  class: File
+  path: python/drug-use-gabup---primary.py
+inputModule95:
+  class: File
+  path: python/drug-use-injecting---primary.py
+inputModule96:
+  class: File
+  path: python/drug-use-lysergide---primary.py
+inputModule97:
+  class: File
+  path: python/drug-use-oblig---primary.py
+inputModule98:
+  class: File
+  path: python/drug-use-scheme---primary.py
+inputModule99:
+  class: File
+  path: python/drug-use-priority---primary.py
+inputModule100:
+  class: File
+  path: python/drug-use-intox---primary.py
+inputModule101:
+  class: File
+  path: python/drug-use-methadone---primary.py
+inputModule102:
+  class: File
+  path: python/drug-use-state---primary.py
+inputModule103:
+  class: File
+  path: python/drug-use-buprenorph---primary.py
+inputModule104:
+  class: File
+  path: python/drug-use-prefibin---primary.py
+inputModule105:
+  class: File
+  path: python/drug-use-sbstnce---primary.py
+inputModule106:
+  class: File
+  path: python/drug-use-never---primary.py
+inputModule107:
+  class: File
+  path: python/drug-use-depin---primary.py
+inputModule108:
+  class: File
+  path: python/drug-use-finding---primary.py
+inputModule109:
+  class: File
+  path: python/drug-use-naloxn---primary.py
+inputModule110:
+  class: File
+  path: python/drug-use-detoxification---primary.py
+inputModule111:
+  class: File
+  path: python/drug-use-opium---primary.py
+inputModule112:
+  class: File
+  path: python/referral-drug-use---primary.py
+inputModule113:
+  class: File
+  path: python/analgesic-drug-use---primary.py
+inputModule114:
+  class: File
+  path: python/drug-use-sniffing---primary.py
+inputModule115:
+  class: File
+  path: python/drug-use-physeptone---primary.py
+inputModule116:
+  class: File
+  path: python/drug-use-programme---primary.py
+inputModule117:
+  class: File
+  path: python/drug-use-mescaline---primary.py
+inputModule118:
+  class: File
+  path: python/drug-use-unspec---primary.py
+inputModule119:
+  class: File
+  path: python/drug-use-follow---primary.py
+inputModule120:
+  class: File
+  path: python/potential-drug-use---primary.py
+inputModule121:
+  class: File
+  path: python/output-cases.py
